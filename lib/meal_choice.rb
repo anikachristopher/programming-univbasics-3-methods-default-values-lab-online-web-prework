@@ -4,4 +4,5 @@ end
 
 meal_choice("broccoli", "macaroni")
   puts "What a nutritious meal!"
-  puts
+  puts "A plate of #{protein}, #{broccoli} and #{macaroni}."
+  
