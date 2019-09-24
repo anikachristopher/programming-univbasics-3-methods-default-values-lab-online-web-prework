@@ -1,5 +1,5 @@
 def meal_choice (broccoli, macaroni)
-  puts"expect #{carrots} and #{squash}."
+  puts"a plate of #{carrots} and #{squash}."
 end
 
 meal_choice("carrots", "squash")
