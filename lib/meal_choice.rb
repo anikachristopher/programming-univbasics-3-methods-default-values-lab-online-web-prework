@@ -3,3 +3,4 @@ def meal_choice (meat, broccoli, macaroni)
 end
 
 meal_choice("broccoli", "macaroni")
+  puts "What a nutritious meal!"
